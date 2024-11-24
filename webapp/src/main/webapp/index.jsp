@@ -1,8 +1,8 @@
 <form action="action_page.php">
-<body style="background-color:powderblue;> 
-<p style="background-image: url("images/technology.jpg");">
+<body background= 
+"https://img.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?t=st=1732464713~exp=1732468313~hmac=ca48a623b72339ce712a18023f195a785ebf62a81ceefab4a46ceee7688379d5&w=826"> 
+</body>
 <h1>GeeksforGeeks</h1> 
-    <h2>Background Image</h2> 
 </body> 
   <div class="container">
     <h1>New user Register for DevOps Learning at my Channel</h1>
@@ -36,7 +36,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You for Learning DevOps Happy Learning </h1>
+   <h1> Thank You for Learning DevOps.. Happy Learning! </h1>
    <h1> See You Again </h1>
   
 </form>
