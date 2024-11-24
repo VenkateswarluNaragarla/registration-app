@@ -1,7 +1,10 @@
 <form action="action_page.php">
 <body style="background-color:powderblue;">
+<body background= 
+"https://img.freepik.com/free-vector/polygonal-wireframe-image-human-hand-touch-electronic-display-abstract-vector-illustration_1284-30756.jpg?t=st=1732465443~exp=1732469043~hmac=17cc57f5baf6a72e54aa6d2b055a7ef74fdbb284e9e4f0c3a1796b5448871ae0&w=740"> 
+</body>
   <div class="container">
-    <h1>New user Register for DevOps Learning at my Channel</h1>
+    <marquee><h1>New user Register for DevOps Learning at my Channel</h1></marquee>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
