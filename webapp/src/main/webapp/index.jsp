@@ -1,7 +1,8 @@
 <form action="action_page.php">
-<body background= 
-"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Ftechnology-background&psig=AOvVaw38hZgX-Voh2b1PsJZUrJM0&ust=1732548442920000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjamoek9YkDFQAAAAAdAAAAABAE"> 
-    <h1>GeeksforGeeks</h1> 
+<body> 
+background-image: url("img_tree.gif"), url("paper.gif");
+background-color: #cccccc;    
+<h1>GeeksforGeeks</h1> 
     <h2>Background Image</h2> 
 </body> 
   <div class="container">
