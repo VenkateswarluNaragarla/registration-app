@@ -1,6 +1,6 @@
 <form action="action_page.php">
 <body background= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"> 
+"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Ftechnology-background&psig=AOvVaw38hZgX-Voh2b1PsJZUrJM0&ust=1732548442920000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjamoek9YkDFQAAAAAdAAAAABAE"> 
     <h1>GeeksforGeeks</h1> 
     <h2>Background Image</h2> 
 </body> 
