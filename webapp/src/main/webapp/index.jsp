@@ -1,6 +1,6 @@
 <form action="action_page.php">
 <body background= 
-"https://img.freepik.com/free-photo/man-wearing-vr-glasses-with-purple-light_23-2148864959.jpg?t=st=1732465626~exp=1732469226~hmac=e3ac6a09997dc820aee114bc04b7df0b27755bdd3186f2be120f1e07c33794ff&w=826"> 
+"https://img.freepik.com/free-photo/man-wearing-vr-glasses-with-purple-light_23-2148864959.jpg?t=st=1732465626~exp=1732469226~hmac=e3ac6a09997dc820aee114bc04b7df0b27755bdd3186f2be120f1e07c33794ff&w=826" background-repeat: no-repeat;> 
 </body>
   <div class="container">
     <h1>New user Register for DevOps Learning at my Channel</h1>
