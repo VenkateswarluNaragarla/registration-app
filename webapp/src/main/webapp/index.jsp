@@ -1,4 +1,9 @@
 <form action="action_page.php">
+<body background= 
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"> 
+    <h1>GeeksforGeeks</h1> 
+    <h2>Background Image</h2> 
+</body> 
   <div class="container">
     <h1>New user Register for DevOps Learning at my Channel</h1>
     <p>Please fill in this form to create an account.</p>
