@@ -1,7 +1,6 @@
 <form action="action_page.php">
 <body> 
-background-image: url("img_tree.gif"), url("paper.gif");
-background-color: #cccccc;    
+background-image: url(webapp/src/main/webapp/images/technology.jpg);
 <h1>GeeksforGeeks</h1> 
     <h2>Background Image</h2> 
 </body> 
