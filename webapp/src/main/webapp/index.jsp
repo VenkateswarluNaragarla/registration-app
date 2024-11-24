@@ -12,32 +12,31 @@
 			}
 		</style>
 	</head>
-<body style="background-color:powderblue;">
 <body background= 
 "https://www.shutterstock.com/shutterstock/photos/2309752637/display_1500/stock-photo-business-technology-concept-professional-business-man-walking-on-future-pattaya-city-background-2309752637.jpg"> 
 </body>
   <div class="container">
-    <marquee><h2 style="color:DarkRed;">>New user Register for DevOps Learning at my Channel</h1></marquee>
+    <marquee><h1 style="color:DarkRed;">New user Register for DevOps Learning at my Channel</h1></marquee>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label style="color:DarkCyan;" for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label style="color:DarkCyan;" for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label style="color:DarkCyan;" for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label style="color:DarkCyan;" for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label style="color:DarkCyan;" for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
