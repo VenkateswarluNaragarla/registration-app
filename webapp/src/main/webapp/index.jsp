@@ -1,5 +1,6 @@
 <form action="action_page.php">
 <body style="background-color:powderblue;> 
+<p style="background-image: url("images/technology.jpg");">
 <h1>GeeksforGeeks</h1> 
     <h2>Background Image</h2> 
 </body> 
