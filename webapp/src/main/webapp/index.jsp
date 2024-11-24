@@ -1,9 +1,7 @@
 <form action="action_page.php">
 <body background= 
-"https://img.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?t=st=1732464713~exp=1732468313~hmac=ca48a623b72339ce712a18023f195a785ebf62a81ceefab4a46ceee7688379d5&w=826"> 
+"https://www.shutterstock.com/shutterstock/photos/2309752637/display_1500/stock-photo-business-technology-concept-professional-business-man-walking-on-future-pattaya-city-background-2309752637.jpg"> 
 </body>
-<h1>GeeksforGeeks</h1> 
-</body> 
   <div class="container">
     <h1>New user Register for DevOps Learning at my Channel</h1>
     <p>Please fill in this form to create an account.</p>
