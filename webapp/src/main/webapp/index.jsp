@@ -10,13 +10,16 @@
 			h4 {
 				color:DarkBlue;
 			}
+                       h5 {
+				color:#FFC300;
+			}
 		</style>
 	</head>
 <body background= 
 "https://www.shutterstock.com/shutterstock/photos/2309752637/display_1500/stock-photo-business-technology-concept-professional-business-man-walking-on-future-pattaya-city-background-2309752637.jpg"> 
 </body>
   <div class="container">
-    <marquee><h1 style="color:DarkRed;">New user Register for DevOps Learning at my Channel</h1></marquee>
+    <marquee><h5 style="color:DarkRed;"/><h1>New user Register for DevOps Learning at my Channel</h1></marquee>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
