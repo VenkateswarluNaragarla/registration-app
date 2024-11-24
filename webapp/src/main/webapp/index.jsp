@@ -1,6 +1,5 @@
 <form action="action_page.php">
-<body> 
-background-image: url(webapp/src/main/webapp/images/technology.jpg);
+<body background-image: url(webapp/src/main/webapp/images/technology.jpg)> 
 <h1>GeeksforGeeks</h1> 
     <h2>Background Image</h2> 
 </body> 
