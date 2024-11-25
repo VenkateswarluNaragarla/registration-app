@@ -16,7 +16,7 @@
 "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> 
 </body>
   <div class="container">
-    <marquee><h1 style="color:DarkRed;"<h1>New User venkat Register for DevOps Learning at my Channel</h1></marquee>
+    <marquee><h1 style="color:DarkRed;"<h1>New User Sai Register for DevOps Learning at my Channel</h1></marquee>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
