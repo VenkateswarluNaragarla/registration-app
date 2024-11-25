@@ -47,7 +47,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You for Learning DevOps.... Happy Learning! </h1>
+   <h1> Thank You for Learning DevOps....... Happy Learning! </h1>
    <h1> See You Again </h1>
   
 </form>
