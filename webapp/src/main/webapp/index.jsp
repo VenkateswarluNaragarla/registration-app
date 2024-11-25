@@ -13,7 +13,7 @@
 		</style>
 	</head>
 <body background= 
-"https://www.shutterstock.com/shutterstock/photos/2309752637/display_1500/stock-photo-business-technology-concept-professional-business-man-walking-on-future-pattaya-city-background-2309752637.jpg"> 
+"https://images.pexels.com/photos/6432109/pexels-photo-6432109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> 
 </body>
   <div class="container">
     <marquee><h1 style="color:DarkRed;"<h1>New user Register for DevOps Learning at my Channel</h1></marquee>
